@@ -1,0 +1,111 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_4AC9F9DA_5C9B_6355_41C3_743DE4E11702.source = http://df360.com.br
+LinkBehaviour_44B91D8A_5C9A_A3B5_41B0_5C22A07841E2.source = http://df360.com.br
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://goo.gl/maps/AJTFZuPvJgK3dxo58
+LinkBehaviour_526A63D8_5C89_6754_41D1_009F781793A5.source = https://instagram.com/suprema.panificadora
+LinkBehaviour_56F36BEA_5910_B1DF_41D4_8840AE613BF1.source = https://instagram.com/suprema.panificadora
+LinkBehaviour_10C0EB70_29E3_B166_41B9_C376074F1421.source = https://wa.me/556196451385
+LinkBehaviour_37D3B020_2723_AEE6_41A4_F40F6DF76F57.source = https://wa.me/556196451385
+LinkBehaviour_526A23D8_5C89_6754_41AB_730BEC77CC7E.source = https://wa.me/556196451385
+LinkBehaviour_56F3BBE9_5910_B1DD_41B1_FB25A5F12E63.source = https://wa.me/556196451385
+LinkBehaviour_481DFF7D_5D65_9D38_41C3_26B4C4B39DED.source = https://www.google.com.br/maps/place/Suprema+P%C3%A3es+e+Caf%C3%A9/@-15.842696,-47.9844522,21z/data=!4m6!3m5!1s0x935a2fb93e31703f:0x8c66332252278005!8m2!3d-15.8426844!4d-47.984347!16s%2Fg%2F11s99w7fgw?entry=ttu
+WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d239.8915238592156!2d-47.984452229669216!3d-15.84269597569039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a2fb93e31703f%3A0x8c66332252278005!2zU3VwcmVtYSBQw6NlcyBlIENhZsOp!5e0!3m2!1spt-BR!2sbr!4v1685189243552!5m2!1spt-BR!2sbr
+
+## Media
+
+### Audio
+audiores_7849A75A_5C8F_AF55_41C0_198A5CD1F839.mp3Url = media/audio_4334D846_5C8A_A0BD_41C7_706D429691CB_pt.mp3
+audiores_7850A679_5C8F_A157_41CD_5C2D777DEA22.mp3Url = media/audio_433B67B0_5C8A_AFD5_41CF_91EE6129EDC2_pt.mp3
+audiores_74C54857_5D99_A15B_4190_D27F33C794DC.mp3Url = media/audio_7128848E_5D9B_E1CD_41BF_2B15ABD67766_pt.mp3
+audiores_7B172034_5D99_60DD_41D3_4C2120654114.mp3Url = media/audio_781703EE_5D9A_E74D_41C0_16B485555914_pt.mp3
+audiores_78408A4D_5C8F_A14F_41D5_3678B837AD35.mp3Url = media/audio_7EF4F50E_5C86_A0CD_41D3_5722B3667230_pt.mp3
+
+### Title
+panorama_48A529EC_5910_71DA_41C6_57A9CA92773E.label = 01
+panorama_48F78A05_5910_B24A_41C5_339AB90EFA23.label = 02
+panorama_48A0A5E1_5910_51CA_41C4_B097F9DA6A33.label = 03
+panorama_48A1620D_5911_B25A_41CC_6EF8F5BF8AD6.label = 04
+panorama_404CAB18_5C8B_A0D5_41BF_3A58315A2CD9.label = 05
+panorama_48A1DB60_5911_D2CB_41B7_FE699F93656D.label = 05.1
+panorama_48A1D334_5911_D24A_418F_B08B2396EF4E.label = 06
+panorama_48A1E0C7_5910_6FD5_41C9_D4C9D2E6EB55.label = 07
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_1.label = BANHEIRO
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_2.label = BEBIDAS
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_0.label = BOLO
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_0.label = Balcão
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_1.label = CAFE
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_2.label = CUPCAKE
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_3.label = CUSCUZ
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_4.label = DOCES
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_5.label = ESFIRRAS
+panorama_48A1C806_5910_5E56_41D2_536EABBD3507.label = Entrada
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_3.label = GP__1612
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_4.label = GP__1613
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_5.label = GP__1615
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_6.label = GP__1634
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_8.label = MINIMERCADO
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_6.label = PAO
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_7.label = PIZZA
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB_8.label = PIZZA2
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_11.label = PRATELEIRA DE PÁES SUPERIOR
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_12.label = PRATELEIRA DE PÃES
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_9.label = PÃES
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_10.label = PÃO QUENTINHO
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_13.label = SORVETES E BISCOITOS
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_14.label = VISTA BOLO
+panorama_48A15F35_5911_B24A_41D2_A17E686F22D2.label = Vista fachada
+panorama_48A1D2FA_5910_B3BE_41CC_AC49520C4E34.label = balcão
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861_7.label = logo suprema
+album_44E01647_5C89_60BB_41D0_BCFBA95378EB.label = Álbum Produtos
+album_35B88B8E_276C_D1BA_4187_8A665F4F6861.label = Álbum de Fotos
+
+## Skin
+
+### Button
+Button_56CCFBE5_5910_B1D5_419B_14ECEA541C2E.label = CONTATO
+Button_5269C3D3_5C89_675B_41A5_D54078F2298E.label = CONTATO
+Button_1830D20E_17B1_6AC3_4198_688BED36E073_mobile.label = ENCOMENDAS  WHATSAPP
+Button_1830D20E_17B1_6AC3_4198_688BED36E073.label = ENCOMENDAS VIA WHATSAPP
+Button_526A93D7_5C89_675C_41BC_E5D14BC1899D.label = REALTOR
+Button_56CC1BE9_5910_B1DD_41D2_4CF3C279213A.label = REALTOR
+
+### Image
+Image_182FD4E7_17B7_EF41_41AA_D495544C1972.url = skin/Image_182FD4E7_17B7_EF41_41AA_D495544C1972_pt.jpg
+Image_44B90D8A_5C9A_A3B5_41D4_95099B8ED822.url = skin/Image_44B90D8A_5C9A_A3B5_41D4_95099B8ED822_pt.png
+Image_4A4F79D7_5C9B_635B_41C7_C4277195E013.url = skin/Image_4A4F79D7_5C9B_635B_41C7_C4277195E013_pt.png
+Image_526A03D8_5C89_6754_41BB_586F604706FF.url = skin/Image_526A03D8_5C89_6754_41BB_586F604706FF_pt.png
+Image_526A53D8_5C89_6754_41BA_23C3A8600A12.url = skin/Image_526A53D8_5C89_6754_41BA_23C3A8600A12_pt.png
+Image_526AA3D7_5C89_675C_41BE_51C0B764AA51.url = skin/Image_526AA3D7_5C89_675C_41BE_51C0B764AA51_pt.png
+Image_526AB3D8_5C89_6754_41B6_97E92D7F3A08.url = skin/Image_526AB3D8_5C89_6754_41B6_97E92D7F3A08_pt.png
+Image_526AC3D8_5C89_6754_4198_D4DD5E7A0B5E.url = skin/Image_526AC3D8_5C89_6754_4198_D4DD5E7A0B5E_pt.png
+Image_526AE3D8_5C89_6754_41A6_D1DD5286B32A.url = skin/Image_526AE3D8_5C89_6754_41A6_D1DD5286B32A_pt.png
+Image_526B83D8_5C89_6754_41C6_591191DDC811.url = skin/Image_526B83D8_5C89_6754_41C6_591191DDC811_pt.png
+Image_56CC2BE9_5910_B1DD_41BF_8B3496617987.url = skin/Image_56CC2BE9_5910_B1DD_41BF_8B3496617987_pt.png
+Image_56CC3BE9_5910_B1DD_41C3_4874753D9080.url = skin/Image_56CC3BE9_5910_B1DD_41C3_4874753D9080_pt.png
+Image_56F30BEA_5910_B1DF_41C7_A325DE7DDFA8.url = skin/Image_56F30BEA_5910_B1DF_41C7_A325DE7DDFA8_pt.png
+Image_56F35BEA_5910_B1DF_41BA_B8E26DC6746D.url = skin/Image_56F35BEA_5910_B1DF_41BA_B8E26DC6746D_pt.png
+Image_56F38BE9_5910_B1DD_41CC_A52892DE2A20.url = skin/Image_56F38BE9_5910_B1DD_41CC_A52892DE2A20_pt.png
+Image_56F3CBE9_5910_B1DD_41D4_6E2CEF778E3B.url = skin/Image_56F3CBE9_5910_B1DD_41D4_6E2CEF778E3B_pt.png
+Image_56F3EBE9_5910_B1DD_41A9_57B617126CD0.url = skin/Image_56F3EBE9_5910_B1DD_41A9_57B617126CD0_pt.png
+
+### Multiline Text
+HTMLText_2792D64D_17CC_071F_4198_A70438B191B7_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.875vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.88vh;font-family:'Oswald';"><B>LOCALIZAÇÃO SUPREMA</B></SPAN></SPAN></DIV></div>
+HTMLText_20ECF7A3_174C_050A_41A5_0B8AD2C6B179_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.1874999999999996vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.19vh;font-family:'Oswald';"><B>ÁlBUM DE FOTOS</B></SPAN></SPAN></DIV></div>
+HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.34vh;font-family:'Oswald';"><B>FOTOS 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_245BDB6E_173C_0D1A_41AA_78BDF4EE53FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FLOORPLAN/</B></SPAN></SPAN></DIV></div>
+HTMLText_3811C7E8_17DC_0505_4199_1B551680AC34.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>FOTOS 360</B></SPAN></SPAN></DIV></div>
+HTMLText_2792D64D_17CC_071F_4198_A70438B191B7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>LOCALIZAÇÃO SUPREMA </B></SPAN></SPAN></DIV></div>
+HTMLText_20ECF7A3_174C_050A_41A5_0B8AD2C6B179.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:3.61vh;font-family:'Oswald';"><B>ÁBUM DE FOTOS</B></SPAN></SPAN></DIV></div>
+HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.92vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:4.92vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.59375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.59vh;font-family:'Oswald';"><B>SUPREMA PÃES E CAFÉ</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.97vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.03125vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.03vh;font-family:'Bebas Neue Bold';"><B>Guará II QE 40 Conjunto D lote 24 - Guará, Brasília - DF, 71070-042</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.75vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.875vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.88vh;font-family:'Oswald';"><B>TELEFONES:</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.88vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:156%;text-align:left;font-size:2.03125vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.03vh;font-family:'Oswald';"><B>(61) 3381-0407</B></SPAN></SPAN></DIV><DIV STYLE="line-height:156%;text-align:left;font-size:2.03125vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.03vh;font-family:'Oswald';"><B>(61) 9645-1385</B></SPAN></SPAN></DIV></div>
+HTMLText_1830E20E_17B1_6AC3_419B_A422A7600CB2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.92vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:4.92vh;font-family:'Oswald';"><B>______</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.196816208393632vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.2vh;font-family:'Oswald';"><B>SUPREMA PÃES E CAFÉ</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5.36vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3000000000000016vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';"><B>QE 40 Conjunto D lote 24 </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.3000000000000016vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';"><B>Guará II, Brasília - DF, 71070-042</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.75vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:153%;text-align:left;font-size:2.4602026049204047vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.46vh;font-family:'Oswald';"><B>TELEFONES:</B></SPAN></SPAN></DIV><DIV STYLE="line-height:153%;text-align:left;font-size:2.4602026049204047vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.46vh;font-family:'Oswald';"><B>(61)3381-0407</B></SPAN></SPAN></DIV><DIV STYLE="line-height:153%;text-align:left;font-size:2.4602026049204047vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.46vh;font-family:'Oswald';"><B>(61)9645-1385</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Suprema Pães e Café
